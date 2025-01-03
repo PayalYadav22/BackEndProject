@@ -3,10 +3,6 @@ import 'dotenv/config';
 
 const app = express();
 
-// app.get('/', (req, res) => {
-//   res.send('Home Page!');
-// });
-
 // get a list of 5 jokes
 
 app.get('/jokes', (req, res) => {
