@@ -1,0 +1,38 @@
+# Node modules
+/node_modules/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+bower_components/
+
+# Build output
+/dist/
+/build/
+/coverage/
+
+# .env files for environment variables
+.env
+.env.* 
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm/
+
+# Next.js build folder (if applicable)
+.next/
+
+# TypeScript build (if applicable)
+*.tsbuildinfo
